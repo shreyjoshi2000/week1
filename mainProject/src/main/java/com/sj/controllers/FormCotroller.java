@@ -8,8 +8,8 @@ public class FormCotroller {
 	
 	@RequestMapping(value="/authentication")
 	public String processForm()	{
-		return "baselayout";
-		//return "loggedin";
+		//return "baselayout";
+		return "loggedin";
 	}
 	
 	
