@@ -8,7 +8,7 @@
 </head>
 <body>
    <h1>Hello World From Spring MVC maven </h1>
-   <form action="hello">
+   <form action="authentication">
       <label for="name">Please enter your name</label><br/>
       <input type="text" name="name"/><br/>
       <label for="id">Please enter your Id</label><br/>
